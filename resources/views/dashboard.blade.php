@@ -1,5 +1,5 @@
 @section('title')
-    Dashboard | LineUp IT
+    Dashboard | LineUp IT Institute
 @endsection
 
 <x-app-layout>
